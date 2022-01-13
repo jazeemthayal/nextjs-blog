@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello i'm {name} check. I'm a software engineer and a translator
+          Hello i'm {name}. I'm a software engineer and a translator
           (English/Japanese). You can connect me on{" "}
           <a href="https://twitter.com/">Twitter</a>
         </p>
